@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.display { 
+    text-align: center;
+}
+
+#plus {
+    height: 40px;
+    width: 40px;
+    font-size: 15px;
+    color: white;
+    background-color: lightgray;
+    border-radius: 6px;
+    border: solid lightgray
+}
+
+#minus {
+    height: 40px;
+    width: 40px;
+    font-size: 15px;
+    color: white;
+    background-color:lightgray;
+    border-radius: 6px;
+    border: solid lightgray
+}
+
+#input {
+    height: 40px;
+    width: 75px;
+    text-align: center;
+    border-radius: 6px;
+    border: solid lightgray
+}
+
+#minus:hover {
+    color: lightgray;
+    background: white
+}
+#plus:hover {
+    color: lightgray;
+    background: white
+    
+}
